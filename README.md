@@ -1,6 +1,6 @@
 # anyconnect2FA
 
-Guide to implementing an Open Source 2FA solution to your existing Anyconnect VPN configuration.
+Guide to implementing an Open Source two factor authentication solution to your existing Anyconnect VPN configuration.
 
 ## Assumptions
 
